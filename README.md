@@ -1,16 +1,22 @@
-# quil_frontend
+# Quil Frontend
+An ode to writers
 
-A new Flutter project.
+## Features
+### Quills
+- Basically CLOUT POINTS
+- The more quills you have, the more chance you get featured
+- Earned through completing challenges and likes from your posts
 
-## Getting Started
+### Challenges
+- Starts depending on the developers / community manager
+- Quills and highest featured chance reward
 
-This project is a starting point for a Flutter application.
+### Featureds
+- Algorithm based feature
+- Depends on likes, author's quill points
 
-A few resources to get you started if this is your first Flutter project:
+### Libraries
+- Private or Public
+- Collection of posts and pieces made by the user
+- Can share to people
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
