@@ -20,3 +20,20 @@ An ode to writers
 - Collection of posts and pieces made by the user
 - Can share to people
 
+### Categories
+- A/B/O
+- Action
+- ChickLit
+- Comedy
+- Fan Fiction
+- Fantasy
+- General Fiction
+- Historical Fiction
+- Horror
+- LGBTQ++
+- Non-Fiction
+- Paranormal
+- Romance
+- Science Fiction
+- Teen Fiction
+- Thriller/Mystery
